@@ -2,6 +2,9 @@
 
 A full-stack web application for browsing, searching, and purchasing computer products. Built using HTML5, Bootstrap, JavaScript, PHP, and MySQL with full admin management capabilities.
 
+# Presentation
+https://drive.google.com/file/d/1yuI4fR6obYoSSvU4nBnktZlqeK9HJcJ0/view?usp=sharing
+
 ## Project Description
 
 This web-based computer store allows users to:
