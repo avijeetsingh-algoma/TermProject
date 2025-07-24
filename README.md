@@ -2,8 +2,6 @@
 
 A full-stack web application for browsing, searching, and purchasing computer products. Built using HTML5, Bootstrap, JavaScript, PHP, and MySQL with full admin management capabilities.
 
----
-
 ## Project Description
 
 This web-based computer store allows users to:
@@ -18,10 +16,8 @@ Admins can:
 
 - Manage products (add/edit/delete)
 - View all customer orders
-- Manage user accounts (optional)
+- Manage user accounts
 - Use a responsive admin dashboard
-
----
 
 ## Setup Instructions
 
@@ -31,7 +27,7 @@ Admins can:
 2. Place the project folder inside:
 ```
 
-C:\xampp\htdocs\www\\
+C:\xampp\htdocs\www\
 
 ```
 
@@ -42,12 +38,8 @@ C:\xampp\htdocs\www\\
 
 4. Launch the site in browser:
 ```
-
-[http://localhost/www/](http://localhost/www/)
-
+http://localhost
 ```
-
----
 
 ## Admin Login (for testing)
 
