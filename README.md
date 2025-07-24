@@ -50,14 +50,10 @@ http://localhost
 |------------------|-----------|
 | admin@store.com  | admin123  |
 
----
-
 ## Author Info
 
 - Name: Avijeet
 - Student ID: 249680600
-
----
 
 ## Folder Structure
 
@@ -70,11 +66,9 @@ http://localhost
 /pages          → main user pages (products, cart, login, etc.)
 /admin          → admin-only dashboard & management
 /php            → backend handlers (auth, cart, checkout)
-computer\_store.sql  → database schema and seed data
+computer_store.sql  → database schema and seed data
 
 ```
-
----
 
 ## Tech Stack
 
@@ -88,7 +82,6 @@ computer\_store.sql  → database schema and seed data
 | phpMyAdmin   | Database management        |
 | XAMPP        | Local server environment   |
 
----
 
 ## Features Implemented
 
